@@ -23,7 +23,7 @@ const singleitemRoute = require("./routes/jddRoutes/singleitemRoutes");
 const contactRoute = require("./routes/jddRoutes/contactjddRoutes");
 const categoryRouter = require("./routes/jddRoutes/categoryRoutes");
 const collectionRoute = require("./routes/jddRoutes/collectionRoutes");
-const adminjddRoute = require("./Routes/jddRoutes/adminjddRoutes");
+const adminjddRoute = require("./routes/jddRoutes/adminjddRoutes");
 const purchasedRoutes = require("./routes/jddRoutes/purchasedRoutes");
 
 //justsmm Router
